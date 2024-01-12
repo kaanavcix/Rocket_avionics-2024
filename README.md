@@ -1,4 +1,4 @@
-## Rocket Avionic 2024 Protoype
+## Rocket AvionicS 2024 Protoype FROM EVA X
 ### **WALL-E AND EVA**
 ![image](https://github.com/kaanavcix/Rocket_avionics-2024/assets/79256195/15f00471-3420-49a3-8eb8-79991e87c638)
 
