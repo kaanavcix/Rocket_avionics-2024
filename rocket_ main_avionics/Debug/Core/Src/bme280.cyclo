@@ -1,0 +1,15 @@
+../Core/Src/bme280.c:27:6:TrimRead	1
+../Core/Src/bme280.c:56:5:BME280_Config	8
+../Core/Src/bme280.c:112:5:BMEReadRaw	2
+../Core/Src/bme280.c:139:6:BME280_WakeUP	1
+../Core/Src/bme280.c:156:9:BME280_compensate_T_int32	1
+../Core/Src/bme280.c:166:10:BME280_compensate_P_int64	2
+../Core/Src/bme280.c:190:10:bme280_compensate_H_int32	1
+../Core/Src/bme280.c:207:8:BME280_Pressure	3
+../Core/Src/bme280.c:228:8:BME280_Humidity	3
+../Core/Src/bme280.c:250:8:BME280_Temperature	3
+../Core/Src/bme280.c:270:7:BME280_Altitude	1
+../Core/Src/bme280.c:278:7:BME280_Kalman_Alt	1
+../Core/Src/bme280.c:294:8:BME280_Kalman_Press	1
+../Core/Src/bme280.c:310:8:BME280_Kalman_Hum	1
+../Core/Src/bme280.c:326:8:BME280_Kalman_Temp	1
