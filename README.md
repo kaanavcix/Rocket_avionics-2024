@@ -20,4 +20,5 @@
 
 ![WhatsApp Image 2024-01-11 at 21 32 39_64f73591](https://github.com/kaanavcix/Rocket_avionics-2024/assets/79256195/a5728ae5-c398-45a2-89ca-956a98ed9498)
 
+#### Eğer devre kartları ve diğer bilgiler hakkında iletişime geçebilirsiniz
 
